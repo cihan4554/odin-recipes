@@ -1,3 +1,3 @@
 # odin-recipes
 
-## When this project is completed, I will have applied what I learned in the html lessons in the odin project. 
+## With this project at the end of the HTML section in the Odin Project, I will have created my first project by reinforcing what I have learned about html.
