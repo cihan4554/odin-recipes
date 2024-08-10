@@ -1,0 +1,50 @@
+.ana_sayfa {
+    background-color: wheat;
+}
+
+.ana_sayfa .baslik {
+    color: blue;
+    text-align: center;
+    font-size: 55px;
+}
+
+.liste li {
+    text-decoration:none;
+    display:inline-block;
+    float: left;
+    font-size: 30px;
+    padding: 55px;
+}
+
+/* Lahmacun Kısmı */
+
+ p {
+    font-size:20px;
+}
+
+ h2 {
+    font-size: 30px;
+}
+
+ h3 {
+    font-size: 20px;
+}
+
+li {
+    font-size: 19px; 
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 45px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h2,h3 {
+    color: rgb(157, 11, 33);
+}
